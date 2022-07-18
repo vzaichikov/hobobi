@@ -1,0 +1,6 @@
+{
+    "require": {
+        "longman/telegram-bot": "^0.64.0",
+        "jaggedsoft/php-binance-api": "@dev"
+    }
+}
